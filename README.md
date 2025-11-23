@@ -64,3 +64,13 @@ Then type Pizza.
 Type Done to finish.
 
 Check the final receipt; it should show the total of Coffee + Pizza plus 5% tax.
+
+Screenshots
+<img width="1920" height="1080" alt="Screenshot from 2025-11-23 20-22-41" src="https://github.com/user-attachments/assets/d7db0072-ece2-4a67-9c5b-15a1b9f4cea7" />
+<img width="1920" height="1080" alt="Screenshot from 2025-11-23 20-22-26" src="https://github.com/user-attachments/assets/b9b1f4c9-e693-440e-a97e-d395ed7586a6" />
+<img width="826" height="524" alt="Screenshot from 2025-11-23 20-21-48" src="https://github.com/user-attachments/assets/076eb147-eb5e-4bc7-a3a4-fa8e33460520" />
+<img width="1920" height="1080" alt="Screenshot from 2025-11-23 20-26-13" src="https://github.com/user-attachments/assets/17e896fb-b40f-4bff-9143-ee0e71e0dea5" />
+
+
+
+
