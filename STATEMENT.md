@@ -4,7 +4,7 @@ Project Statement: Cafe Management System
    
 I have noticed that many small cafes and food stalls still rely on pen and paper to calculate bills. This often leads to mistakes, especially when the shop is busy. Customers have to wait longer, and staff members struggle with mental math for totals and taxes. I felt there was a need for a simple, digital tool that could handle these calculations instantly without needing expensive or complicated software.
 
-3. Scope of the Project
+2. Scope of the Project
 
 This project is a console-based application built to help small business owners manage their orders and billing more efficiently.
 
